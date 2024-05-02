@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#0D3ADF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">amblance</string>
+    <string name="gcm_defaultSenderId" translatable="false">906223329173</string>
+    <string name="google_api_key" translatable="false">AIzaSyC_MwY9PwJS1QOPN4kEXfD74t7tz36B7wg</string>
+    <string name="google_app_id" translatable="false">1:906223329173:android:7c57349b1ebe6feb84609c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC_MwY9PwJS1QOPN4kEXfD74t7tz36B7wg</string>
+    <string name="google_storage_bucket" translatable="false">amblance-e8155.appspot.com</string>
+    <string name="project_id" translatable="false">amblance-e8155</string>
+    <style name="Base.Theme.Amblance" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Amblance" parent="Base.Theme.Amblance"/>
+</resources>

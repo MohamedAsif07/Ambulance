@@ -1,0 +1,6 @@
+com.hardware.amblance.test.app-core-1.5.0-0 C:\Users\91934\.gradle\caches\transforms-3\77fe5806c0227b0e64fd3ffa1607593b\transformed\core-1.5.0\res
+com.hardware.amblance.test.app-annotation-experimental-1.4.0-1 C:\Users\91934\.gradle\caches\transforms-3\bc69fb1a92782d06cda3805ea36429eb\transformed\annotation-experimental-1.4.0\res
+com.hardware.amblance.test.app-androidTest-2 C:\Users\91934\AndroidStudioProjects\amblance\app\build\generated\res\resValues\androidTest\debug
+com.hardware.amblance.test.app-mergeDebugAndroidTestResources-3 C:\Users\91934\AndroidStudioProjects\amblance\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.hardware.amblance.test.app-mergeDebugAndroidTestResources-4 C:\Users\91934\AndroidStudioProjects\amblance\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.hardware.amblance.test.app-debugAndroidTest-5 C:\Users\91934\AndroidStudioProjects\amblance\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\drawable_email.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\drawable\\email.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\layout_activity_counter.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_counter.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\layout_activity_detial.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_detial.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\raw_ani2.json.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\raw\\ani2.json"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\raw_ani8.json.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\raw\\ani8.json"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\layout_activity_call.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\layout_activity_docter1.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_docter1.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\drawable\\baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\layout_activity_call2.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_call2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\layout_activity_gmap.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_gmap.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\layout_activity_call1.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_call1.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\layout_activity_final.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_final.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.hardware.amblance.app-debug-40:/layout_activity_final.xml.flat",
+        "source": "com.hardware.amblance.app-main-42:/layout/activity_final.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\raw_ani1.json.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\raw\\ani1.json"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\raw_ani5.json.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\raw\\ani5.json"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\raw_ani6.json.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\raw\\ani6.json"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\layout_activity_docter2.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_docter2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\raw_ani4.json.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\raw\\ani4.json"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\layout_activity_login1.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_login1.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-debug-40:\\raw_ani3.json.flat",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\raw\\ani3.json"
+    }
+]

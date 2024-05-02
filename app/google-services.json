@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906223329173",
+    "project_id": "amblance-e8155",
+    "storage_bucket": "amblance-e8155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906223329173:android:7c57349b1ebe6feb84609c",
+        "android_client_info": {
+          "package_name": "com.hardware.amblance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_MwY9PwJS1QOPN4kEXfD74t7tz36B7wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

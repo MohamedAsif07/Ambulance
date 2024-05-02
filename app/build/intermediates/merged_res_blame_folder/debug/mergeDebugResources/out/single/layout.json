@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-mergeDebugResources-39:\\layout\\activity_final.xml",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_final.xml"
+    },
+    {
+        "merged": "com.hardware.amblance.app-mergeDebugResources-39:/layout/activity_final.xml",
+        "source": "com.hardware.amblance.app-main-42:/layout/activity_final.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-mergeDebugResources-39:\\layout\\activity_docter1.xml",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_docter1.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-mergeDebugResources-39:\\layout\\activity_counter.xml",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_counter.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-mergeDebugResources-39:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-mergeDebugResources-39:\\layout\\activity_call2.xml",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_call2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-mergeDebugResources-39:\\layout\\activity_call1.xml",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_call1.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-mergeDebugResources-39:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-mergeDebugResources-39:\\layout\\activity_login1.xml",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_login1.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-mergeDebugResources-39:\\layout\\activity_call.xml",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-mergeDebugResources-39:\\layout\\activity_docter2.xml",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_docter2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-mergeDebugResources-39:\\layout\\activity_detial.xml",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_detial.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-mergeDebugResources-39:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-mergeDebugResources-39:\\layout\\activity_gmap.xml",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_gmap.xml"
+    },
+    {
+        "merged": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-mergeDebugResources-39:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\91934\\.gradle\\daemon\\8.4\\com.hardware.amblance.app-main-42:\\layout\\activity_splash.xml"
+    }
+]
